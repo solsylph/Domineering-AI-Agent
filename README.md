@@ -1,7 +1,7 @@
 # Domineering-AI-Agent-
 Domineering AI Agent for AI: REASONING &amp; PROBLEM SOLVING Group Assignment. 
 
-Collaborated with 11acc(https://github.com/11acc) for the elaboration of this agent. 
+Collaborated with 11acc (https://github.com/11acc) for the elaboration of this agent. 
 
 _____
 
